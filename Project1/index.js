@@ -12,4 +12,6 @@ function handleClick() {
         btn.innerText = 'Turn On';
         bulb.src = "Resources/On.avif";
     }
+    console.log("dsfkjasdfjka");
 }
+
